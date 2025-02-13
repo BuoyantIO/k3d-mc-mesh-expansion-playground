@@ -3,7 +3,7 @@ kind: Simple
 servers: 1
 agents: 1
 image: rancher/k3s:v1.31.5-rc2-k3s1
-network: host
+network: mc-me-net
 options:
   k3d:
     disableLoadbalancer: true
