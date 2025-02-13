@@ -9,7 +9,7 @@
 # Let's set some variables!
 
 # BEL: Stable
-BEL_VERSION=enterprise-2.17.0
+BEL_VERSION=enterprise-2.17.1
 CLI_VERSION=install
 MC_VERSION=enterprise
 
@@ -19,7 +19,7 @@ MC_VERSION=enterprise
 #MC_VERSION=preview
 
 # Viz Version
-VIZ_VERSION=edge-24.10.1
+VIZ_VERSION=edge-25.1.2
 
 set -xeuo pipefail
 

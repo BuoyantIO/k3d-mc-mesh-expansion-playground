@@ -1,0 +1,60 @@
+multipass
+multipass launch
+multipass list
+multipass shell possible-goosefish
+ip addr
+docker ps -a
+docker net
+docker --help
+docker network
+docker network ls
+docker network inspect multiaz
+multipass list
+multipass --help
+multipass networks
+multipass networks -v
+multipass info possible-goosefish
+multipass info possible-goosefish | grep IP
+multipass info possible-goosefish | grep IP | awk {'print $2'}
+docker ps -a
+docker exec --help
+docker exec -i /bin/sh 682d2130e742
+docker exec -i sh 682d2130e742
+docker exec -i /usr/bin/sh 682d2130e742
+docker exec -i /bin/bash 682d2130e742
+docker exec -i bash 682d2130e742
+docker exec -i 682d2130e742 /bin/sh
+docker exec 682d2130e742 /bin/sh
+docker exec 682d2130e742 /bin/sh
+docker exec 682d2130e742 sh
+docker exec 682d2130e742 bash
+docker exec 682d2130e742 /bin/sh
+docker exec 682d2130e742 /bin/sh -i
+docker exec 682d2130e742 /bin/sh -it
+docker exec 682d2130e742 /bin/sh -i -t
+docker exec -it 682d2130e742 /bin/sh
+docker ps -a
+docker exec -it 8311c78b51c1 /bin/sh
+docker exec -it 89a0d4d7408d /bin/sh ping 192.168.64.2
+docker exec -it 89a0d4d7408d ping 192.168.64.2
+docker exec -it 2fa583ea7569 ping 192.168.64.2
+docker exec -it a321618c95ed ping 192.168.64.2
+docker ps -a
+docker network inspect multiaz
+multipass shell possible-goosefish
+multipass delete possible-goosefish
+multipass list
+multipass help
+multipass purge
+multipass help
+multipass list
+whois trexoin.com
+multipass list
+docker network inspect multiaz
+multipass help
+multipass networks help
+multipass networks
+multipass launch help
+multipass launch --help
+multipass networks
+ip addr
